@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e4b8beaa-5339-4e8c-beca-8699c4a94831" name="Changes" comment="maven changes" />
+    <list default="true" id="e4b8beaa-5339-4e8c-beca-8699c4a94831" name="Changes" comment="maven changes">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/maven.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/maven.yml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,7 +55,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1670574602877</updated>
-      <workItem from="1670574604343" duration="4401000" />
+      <workItem from="1670574604343" duration="4637000" />
     </task>
     <task id="LOCAL-00001" summary="new classes">
       <created>1670575355993</created>
@@ -111,7 +113,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670578731239</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="maven changes">
+      <created>1670579157548</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1670579157548</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

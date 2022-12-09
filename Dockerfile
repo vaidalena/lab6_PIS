@@ -7,6 +7,7 @@
 #EXPOSE 8080
 #ENTRYPOINT ["java","-Djava.security.egd=file:/dev/./urandom","-jar","/app"]
 
+
 FROM openjdk:11
 FROM maven:3.6.0-jdk-10
 ADD pom.xml /tmp/build/

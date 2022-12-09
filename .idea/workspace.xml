@@ -56,7 +56,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1670574602877</updated>
-      <workItem from="1670574604343" duration="13635000" />
+      <workItem from="1670574604343" duration="14531000" />
     </task>
     <task id="LOCAL-00001" summary="new classes">
       <created>1670575355993</created>
@@ -156,7 +156,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670591842495</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="maven changes">
+      <created>1670592363557</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1670592363557</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

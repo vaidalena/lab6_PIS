@@ -8,7 +8,7 @@
 #ENTRYPOINT ["java","-Djava.security.egd=file:/dev/./urandom","-jar","/app"]
 
 FROM openjdk:11
-FROM maven:3.6.0-jdk-10-slim
+FROM maven:3.6.0-jdk-10
 ADD pom.xml /tmp/build/
 RUN cd /tmp/build && mvn -q dependency:resolve
 ADD src /tmp/build/src
